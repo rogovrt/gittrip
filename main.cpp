@@ -8,6 +8,8 @@ void func_2() {
     std::cout << "Hey from func_2()\n";
 }
 
+int conf_func(int x) {
+    return x;
 void master_func() {
     
 }
