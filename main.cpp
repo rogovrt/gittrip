@@ -1,7 +1,7 @@
 #include <iostream>
 
 void func_1() {
-    
+    std::cout << "Hey fron func_1\n";
 }
 
 int main() {
