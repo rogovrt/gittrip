@@ -5,7 +5,7 @@ void func_1() {
 }
 
 void func_2() {
-    
+    std::cout << "Hey from func_2()\n";
 }
 
 int main() {
