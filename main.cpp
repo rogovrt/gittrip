@@ -4,6 +4,10 @@ void func_1() {
     std::cout << "Hey fron func_1\n";
 }
 
+void func_2() {
+    std::cout << "Hey from func_2()\n";
+}
+
 int main() {
     int a = 42;
     a++;
