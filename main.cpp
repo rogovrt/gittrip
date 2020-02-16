@@ -10,6 +10,8 @@ void func_2() {
 
 int conf_func(int x) {
     return x;
+}
+
 void master_func() {
     
 }
