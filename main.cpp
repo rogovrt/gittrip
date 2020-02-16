@@ -8,6 +8,10 @@ void func_2() {
     std::cout << "Hey from func_2()\n";
 }
 
+void master_func() {
+    
+}
+
 int main() {
     int a = 42;
     a++;
